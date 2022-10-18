@@ -1,1 +1,2 @@
 # Hotlamp
+For Git files
